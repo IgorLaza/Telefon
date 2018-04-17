@@ -1,0 +1,90 @@
+*{
+	margin: 0px;
+	padding: 0px; 
+}
+body{
+	display: block;
+	padding: 0px;
+}
+#samsung{
+	width: 74.7mm;
+	height: 152.4mm;
+	background-color: #ffec99;
+	border: 1px solid black;
+	margin-left: 400px;
+	margin-top: 20px;
+	border-radius: 7mm;
+	text-align: center;
+	line-height: 22px;
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 13px;
+	
+	
+}
+
+#ekran{
+	margin-top: 0px;
+	margin-left: 3px;
+	width: 73mm;
+	height: 130mm;
+	background-color: #000d1a;
+	
+}
+button{
+	width: 60px;
+	height: 25px;
+	border: 2px solid silver;
+	background-color: #ffec99;
+	margin-left: 0px;
+	margin-top: 10px;
+	border-radius: 12px;
+	
+}
+#kamera{
+	width: 10px;
+	height: 10px;
+	border: 1px solid black;
+	border-radius: 50%;
+	margin-left: 230px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: silver;
+	
+}
+#zvucnik1{
+	width: 55px;
+	height: 4px;
+	border: 1px solid black;
+	border-radius: 3px;
+	margin-top: -15px;
+	margin-left: 112px;
+	margin-bottom: 20px;
+	background-color: black;
+}
+#zvucnik2{
+	width: 10px;
+	height: 10px;
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: silver;
+	margin-left: 75px;
+	margin-top: -28px;
+	margin-bottom: 20px;
+	
+}
+#blic{
+	width: 6px;
+	height: 6px;
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: black;
+	margin-left: 200px;
+	margin-top: -30px;
+}
+#vd {
+	
+	width: 73mm;
+	height: 130mm;
+}
